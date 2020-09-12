@@ -296,7 +296,7 @@ We then choose "fastforward" and Confirm in the MetaMask popup:
 
 ![MetaMask2_Level_3](Images/Image58.png)
 
-We still see 0 distributed shares because not enough time has passed, so we click "fastforward" three more times, confirming in the MetaMask popup each time. Now we are able to choose "distribute" and Confirm in the MetaMask popup. Now when we click "distributed_share" we see there are 250 distributed shares, as expected!
+We still see 0 distributed shares because not enough time has passed, so we click "fastforward" three more times, confirming in the MetaMask popup each time. Now we are able to choose "distribute" and Confirm in the MetaMask popup. Now when we click "distributed_shares" we see there are 250 distributed shares, as expected!
 
 ![Deploying3_Level_3](Images/Image59.png)
 
@@ -312,6 +312,12 @@ We Confirm in MetaMask:
 
 ![MetaMask3_Level_3](Images/Image62.png)
 
+Now we can see the "deactivate," "distribute," "fastforward," and "distributed_shares" buttons in the lower-left dropdown. We choose "distributed_shares" and see that there are 0 distributed shares:
 
+![Deploying5_Level_3](Images/Image63.png)
+
+We then choose "fastforward" four times, Confirming in the MetaMask popup. We click "distribute" and now when we click "distributed_shares" we see there are 250 distributed shares, as expected!
+
+![Deploying6_Level_3](Images/Image64.png)
 
 The testnet address for others to be able to send to is: 0xf8eF4E21f1501EA4cCfE1110D5541545593Aea4D.
