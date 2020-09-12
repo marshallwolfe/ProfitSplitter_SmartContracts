@@ -97,7 +97,7 @@ We double-check etherscan to determine that the deposit was successfully routed 
 
 ![Etherscan_Level_1](Images/Image41.png)
 
-The testnet address for others to be able to send to is: 0xf8eF4E21f1501EA4cCfE1110D5541545593Aea4D.
+The testnet address for others to be able to send to is: 0xF40870a74528482E4ba15a8450687b0ee778fe68.
 
 ### Level Two: The TieredProfitSplitter Contract
 
@@ -206,7 +206,7 @@ We now check the "balance" which is 0, as expected:
 
 ![Deploying4_Level_2](Images/Image54.png)
 
-Again, the testnet address for others to be able to send to is: 0xf8eF4E21f1501EA4cCfE1110D5541545593Aea4D.
+The testnet address for others to be able to send to is: 0xF40870a74528482E4ba15a8450687b0ee778fe68.
 
 ### Level Three: The DeferredEquityPlan Contract
 
@@ -320,4 +320,4 @@ We then choose "fastforward" four times, Confirming in the MetaMask popup. We cl
 
 ![Deploying6_Level_3](Images/Image64.png)
 
-The testnet address for others to be able to send to is: 0xf8eF4E21f1501EA4cCfE1110D5541545593Aea4D.
+The testnet address for others to be able to send to is: 0xF40870a74528482E4ba15a8450687b0ee778fe68.
